@@ -1,4 +1,10 @@
 import requests
+# Script en python que consulta el api de pokemon 
+# para listar los nombres de pokemon pero se le agrego 
+# interacción para que listaras más pokemons segun se vaya requiriendo. 
+# Contribuyo: Jesús Israel Bolaños Uvalle
+# Fecha: 12 de septiembre 2022
+
 
 # Nombre: Jesús Israel Bolaños Uvalle
 # Matrícula: 2005587
